@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Gandah/Intro-section-with-dropdown-navigation-main.git)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://gandah.github.io/Intro-section-with-dropdown-navigation-main/)
 
 ## My process
 
